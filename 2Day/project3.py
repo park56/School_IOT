@@ -1,6 +1,5 @@
 #-*- coding:utf-8 -*-
 import RPi.GPIO as GPIO			
-
 import time						
 
 led_pin1 = 23
@@ -18,11 +17,9 @@ GPIO.setup(button, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 while True:
 	while GPIO.input(button) == 1:
 		GPIO.output(led_pin1, 1)
-		time.sleep(0.1)
 		GPIO.output(led_pin1, 0)
 		time.sleep(0.1)
 		GPIO.output(led_pin2, 1)
-		time.sleep(0.1)
 		GPIO.output(led_pin2, 0)
 		time.sleep(0.1)
 
