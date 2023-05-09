@@ -1,0 +1,5 @@
+
+Temperatyre: 17.0*C Humidity: 26.0% Attime: 2023-05-01 15:48:58.931355
+Temperatyre: 17.0*C Humidity: 26.0% Attime: 2023-05-01 15:48:59.756538
+Temperatyre: 17.0*C Humidity: 26.0% Attime: 2023-05-01 15:49:00.582169
+Temperatyre: 18.0*C Humidity: 26.0% Attime: 2023-05-01 15:49:01.408998
